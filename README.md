@@ -22,7 +22,7 @@ Code was developed in Python 3.6.3 and the following libraries are needed:
 
 Using the logistic Regression Model, a Recall score of 77.8%, a Precision Score of 35% and an F1-score of 48% was achieved.
 This means that the model was able to recall 77.8% of the users who did actually churn! However, with a precision score of 35%, the model
-wrongly classified 65% of the users who did not churn and were happily using the service.
+wrongly classified 65% of the users who did not churn and were happily using the service. Please check This [BlogPost](https://amroghoneim.medium.com/predicting-customer-churn-using-spark-71c019133b08) for a thorough description of the project
 
 ### Improvements
 
